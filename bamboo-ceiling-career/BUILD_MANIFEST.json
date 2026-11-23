@@ -1,0 +1,48 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\behavior-reframe.md": "61faae7e2d7d46a4fcd250e95f918088ec34bb09a5b759bfd889b00c2961d88f",
+    "references\\capabilities\\comp-negotiation.md": "ff3cc66d7f270f5eeaec67b09ac0cf1ad17d43556f48afc62154d45bb2e92eb3",
+    "references\\capabilities\\employer-fit-probe.md": "9bfa0f01d26e5d41ad55f270ed67332bc984fe5ed4f8b29004286d2c8f89b525",
+    "references\\capabilities\\external-feedback-probe.md": "fe62ce5cf18df56fdad9a629577b1dba38e68f5818ffc39e53a6e496cfba342e",
+    "references\\capabilities\\guide-map.md": "ba9dfcecf38d1dbf0c3d43c7f0903e79d0f171456a8b1e8f627acc09707ad501",
+    "references\\capabilities\\interview-narrative.md": "80b11e717f8afe78defed10ea758b3afdf38b6c875a05a9cfede55211a87c8bf",
+    "references\\capabilities\\interview-rehearsal.md": "146909a2e56b4fe92266ac782ad4bc2f8413328bf91086c1cf06d12ad234de2a",
+    "references\\capabilities\\meeting-voice.md": "5d36bd220c32771bedb377a6c413d1504507d9194f9cec67213a28cfe70bedf5",
+    "references\\capabilities\\mobility-audit.md": "dbd5012118664a6317dfeee62abc41bd3030ab44ceb489a22236cd6b7843cb69",
+    "references\\capabilities\\network-long-game.md": "233f3f1a022bb703a89f87a53e796576cde5d40aa55b39b41dd1047cfc673d29",
+    "references\\capabilities\\new-role-infrastructure.md": "71c83dc14c92b2a413f63038b76f87a3a1c99b60abe6a9c79e118d599100f322",
+    "references\\capabilities\\nonverbal-credibility.md": "62b496eedb10a48be9c107f3d424b0a40f3ee5c78fabd48aeee1eb636df2b32d",
+    "references\\capabilities\\performance-discussion.md": "46cee7330aacb770abf0fd753fd6396ae5acab680111f6c977f97eaad014fbf6",
+    "references\\capabilities\\pitch-three-s.md": "aa11e2f75ab2281d235e5f3d4c3cdfc158b1adffd1e574acdcb6ef94750511dd",
+    "references\\capabilities\\prewire-disagreement.md": "511dc9c9488514d993a867dcf9777cee97fb36034b21fb27129626b4c4cbb096",
+    "references\\capabilities\\role-targeting.md": "2f1a1ccbab840f4996370e3a78a50a1f010eb1fd1e19da97f92a67c0a562f14d",
+    "references\\capabilities\\upward-dialogue.md": "7d3dceb34bee1532a92199cb37bde0b61e5c3f6857bdbaa0d599e47753a94d0b",
+    "references\\capabilities\\win-file.md": "21ed831296f44a7048ca185ad9ad45c986bfdbd3dc5a704d43d7f55a73871485",
+    "references\\capability-index.md": "9426beb3509f1d5bf453fba4e51e2d685de4365b43b90dc3723e5a1a0fd6222d",
+    "references\\cheatsheet.md": "b105c692ca6cbe44189ba3a4c98a139cf5fc7cdcb53d7d8bd129e2447cfd43fb",
+    "references\\glossary.md": "528b39653c19177afcda8d68b33f84a5c0e160f5cf9822738e8f55914c5f2883",
+    "references\\overview.md": "53943eb6d933c55ab41c55d94510999698b904d26e3236c1e8524edd70506139",
+    "SKILL.md": "05d00f0b43a9275b354e620269406a386ccad6b0aa8ff5aaffea0519f4bc4605"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.bamboo-ceiling-career",
+  "bundle_sha256": "fb7da123b10db7387b7a79b6b04010fdd3e9b8193ef9c194dc5bc0152d2893bd",
+  "variant": "single",
+  "run_id": "run-20261122-210804-753e56",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 0,
+    "capability_count": 18,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
