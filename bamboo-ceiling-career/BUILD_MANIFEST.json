@@ -1,7 +1,7 @@
 {
   "tool": "cangjie-tools v2.5.0",
   "published_hashes": {
-    "references\\capabilities\\behavior-reframe.md": "61faae7e2d7d46a4fcd250e95f918088ec34bb09a5b759bfd889b00c2961d88f",
+    "references\\capabilities\\behavior-reframe.md": "62e28cca08b1cf4f0f163e867724696703370cc750d1086acc6a65f8afe1df4d",
     "references\\capabilities\\comp-negotiation.md": "ff3cc66d7f270f5eeaec67b09ac0cf1ad17d43556f48afc62154d45bb2e92eb3",
     "references\\capabilities\\employer-fit-probe.md": "9bfa0f01d26e5d41ad55f270ed67332bc984fe5ed4f8b29004286d2c8f89b525",
     "references\\capabilities\\external-feedback-probe.md": "fe62ce5cf18df56fdad9a629577b1dba38e68f5818ffc39e53a6e496cfba342e",
@@ -22,10 +22,13 @@
     "references\\capability-index.md": "9426beb3509f1d5bf453fba4e51e2d685de4365b43b90dc3723e5a1a0fd6222d",
     "references\\cheatsheet.md": "b105c692ca6cbe44189ba3a4c98a139cf5fc7cdcb53d7d8bd129e2447cfd43fb",
     "references\\glossary.md": "528b39653c19177afcda8d68b33f84a5c0e160f5cf9822738e8f55914c5f2883",
-    "references\\overview.md": "53943eb6d933c55ab41c55d94510999698b904d26e3236c1e8524edd70506139",
-    "SKILL.md": "05d00f0b43a9275b354e620269406a386ccad6b0aa8ff5aaffea0519f4bc4605"
+    "references\\overview.md": "f2d811506ead897af7510f350bfa6645186facab16eb5b9734d8f71007a63530",
+    "SKILL.md": "91401ab9436a25d9c0547be1f4f61d19f9692fe8c40333ae4d4101a582712230"
   },
   "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "local-edits": [
+    "2026-11-22: 删除本包内的作者署名与版权/出版方标注（SKILL.md、references/overview.md、references/capabilities/behavior-reframe.md）；README 的署名与版权段落已由远端提交整段删除，本次不再改动 README；published_hashes 已按当前文件重算，bundle_sha256 仍为旧值，待重编译更新。"
+  ],
   "bundle_id": "bundle.bamboo-ceiling-career",
   "bundle_sha256": "fb7da123b10db7387b7a79b6b04010fdd3e9b8193ef9c194dc5bc0152d2893bd",
   "variant": "single",

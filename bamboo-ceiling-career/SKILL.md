@@ -65,7 +65,7 @@ metadata:
 | 面试时想判断这家公司值不值得去；想知道这里对我这类背景的人是否友好；手上几个 offer 不知道怎么选 | references/capabilities/employer-fit-probe.md | references/capabilities/mobility-audit.md、references/capabilities/comp-negotiation.md、references/capabilities/role-targeting.md |
 
 **非能力类查询**：
-- 书名/作者/章节/整书概览 → references/overview.md
+- 书名/章节/整书概览 → references/overview.md
 - 术语解释 → references/glossary.md
 - 决策规则速查（不需要原文依据时） → references/cheatsheet.md
 - 完整意图与关键词索引（本表未覆盖的意图先查这里） → references/capability-index.md

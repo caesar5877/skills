@@ -3,7 +3,7 @@
 ## R｜来源与依据
 
 原书印刷页 p.33–34「Making the Most of Your Asian Assets at Work」四列表（行为 / 被视为不利 / 正面资产），
-以及 p.38 作者自制的「Cultural Images: Asian vs. Western」图（p.38 标注版权归作者本人）。
+以及 p.38 的「Cultural Images: Asian vs. Western」对照图。
 
 ## I｜这条能力在说什么
 

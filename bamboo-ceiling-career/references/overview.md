@@ -1,14 +1,13 @@
 # Breaking the Bamboo Ceiling — 概览（overview）
 
-> 本文件随 Skill 分发，用于回答"这本书讲了什么/作者是谁/某概念出自哪里"这类**非能力类**问题。
+> 本文件随 Skill 分发，用于回答"这本书讲了什么/某概念出自哪里"这类**非能力类**问题。
 > 页码为原书印刷页（printed p.），与 PDF 页换算为 printed = PDF − 16。
 > 产物中所有表述均为对原文的归纳与改写；引用限于术语级短语。
 
 ## 基本信息
 
 - **书名**：Breaking the Bamboo Ceiling: Career Strategies for Asians — The Essential Guide to Getting In, Moving Up, and Reaching the Top
-- **作者**：Jane Hyun（职业教练、Crossroads Careers 创办人，曾任投资银行 HR 高管与招聘负责人）
-- **出版**：2005 年（Berrett-Koehler）。所用 PDF 元数据显示创建 2007、修改 2009，**是否为修订版未核实**
+- **出版**：2005 年。所用 PDF 元数据显示创建 2007、修改 2009，**是否为修订版未核实**
 - **篇幅**：351 PDF 页 / 约 96,800 词；结构为引言 + 三部十章 + 尾声 + Andrea Jung 对谈 + 附录 A/B
 - **本书在本包中的角色**：唯一来源；能力卡不引入书外方法论
 
@@ -79,7 +78,7 @@
 ## 版本与来源声明
 
 - 能力卡文本为本包的原创归纳，不复制原书成段文字；术语级短引用保留英文原词以便溯源。
-- Tool 1（Seven Stories，O'Clock Club）与 Tool 6（Forty-Year Vision，Kate Wendleton）为第三方授权内容，
+- Tool 1（Seven Stories）与 Tool 6（Forty-Year Vision）为第三方授权内容，
   本包仅重述方法并由使用者自建工作表，未复制原量表条目。
 - 蒸馏流程：cangjie-skill v2.5.0（RIA-TV++），阶段记录见工作目录
   `books/breaking-the-bamboo-ceiling/`（PIPELINE_STATE、BOOK_OVERVIEW、candidates、verified、coverage-audit）。
