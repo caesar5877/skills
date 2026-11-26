@@ -1,7 +1,7 @@
 ---
 name: memory-mastery-workshop
 description: |
-  把“要记的东西”变成可执行流程的能力集，来自一部中文记忆术实操手册（记忆竞技选手所著，2017）。
+  把“要记的东西”变成可执行流程的能力集，
   当用户要处理以下任务时使用：拿到一段材料不知道该用哪种记法；有序条款（条例、问答题要点、三十六计一类）
   背了顺序就乱；长篇课文、古诗文、单词背了忘；年代、地理生物数据、易错字记不牢；想建或体检自己的记忆宫殿
   （地点桩）与 00–99 数字编码库；需要复习排程来保证长期留存；要把几百位数字、扑克或海量任务拆到能记住；
@@ -19,7 +19,7 @@ metadata:
   cangjie.capability-count: 18
   cangjie.entrypoint-count: 1
 ---
-# “记忆达人教你神奇记忆术” — 全书能力入口
+# 记忆方法工作坊 — 能力入口
 
 ## 触发与不触发
 
@@ -67,7 +67,7 @@ metadata:
 | 我是不是记性变差了；背得快但几天就想不起来；明明记得却说不出来/答不出来；我该先练什么；帮我判断记忆问题的环节；是我方法不对，还是练得不够、载体没建好；用了某个方法一段时间没效果，问是方法不适合我还是我没做对（先归因，别直接重选方法） | references/capabilities/self-check.md | references/capabilities/method-routing.md、references/capabilities/image-placement.md、references/capabilities/review-scheduler.md |
 
 **非能力类查询**：
-- 书名/作者/章节/整书概览 → references/overview.md
+- 记忆方法概览 → references/overview.md
 - 术语解释 → references/glossary.md
 - 决策规则速查（不需要原文依据时） → references/cheatsheet.md
 - 完整意图与关键词索引（本表未覆盖的意图先查这里） → references/capability-index.md
@@ -75,7 +75,7 @@ metadata:
 ## 加载规则
 
 - 每次任务先读本文件，再按路由表加载 **1** 张能力卡；任务明确跨域时最多加载 2 张。
-- 概览/书名类问题不加载能力卡，用「核心原则」与 overview.md 回答。
+- 概览类问题不加载能力卡，用「核心原则」与 overview.md 回答。
 - 路由表与 capability-index.md 都无法命中的意图，明确告知超出本书范围，不要硬套。
 
 ## 边界与判停

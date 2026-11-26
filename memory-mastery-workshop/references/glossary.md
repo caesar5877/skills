@@ -1,4 +1,4 @@
-# GLOSSARY — 《记忆达人教你神奇记忆术》术语词典
+# GLOSSARY — 记忆方法术语词典
 
 > 阶段 3 产出，由 `candidates/glossary.md`（27 条，脚本预筛 + 回原文取定义）整理提升。
 > 编译分发副本：`.cangjie/capabilities/book/glossary.md`。
