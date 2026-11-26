@@ -1,0 +1,48 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\abstraction-conversion.md": "b098c0b4635f8f8131f8237090444dee20b67615de32270a7176de7b43470bf2",
+    "references\\capabilities\\clause-loci.md": "c8f9fa2230d29425af4d4f0dbdf16ac236fab1c553feebba91316f2c02da7fda",
+    "references\\capabilities\\date-pairing.md": "809d92e7221b149e93b06504e42a5b234b07d3f0b634d497d02b473ddb557042",
+    "references\\capabilities\\four-step-flow.md": "3e045f647f6ddc200dba02396e41e0d26328802c1f5a2401e2f79f9d81c845c6",
+    "references\\capabilities\\image-placement.md": "37924aadaebe9cee260cb3c8aa930def0027d9552763c429c2ea1c64d865d6fe",
+    "references\\capabilities\\long-text-recall.md": "9e90fd378873586d0ac47371b43cdfb8e39c2eda481976bb4fd9042226cc3c0a",
+    "references\\capabilities\\mass-task-mapping.md": "7d24fe6e1bfae7fc7c134bab38d6459e8dd3757490a3fce0e2d6a1223c11bd66",
+    "references\\capabilities\\method-routing.md": "90f20dd4c992fc82fe14c382d3a04c66dd2c72e3837c95fac4b264b3b5c5cda8",
+    "references\\capabilities\\mind-map.md": "e3158b1b7a01f5822fad2b8fea5864321bf5036e3cc471fddd03c95127759a98",
+    "references\\capabilities\\mnemonic-list.md": "e49ceb115cbe822e10affb30587f301e3a0f98cb97004f0b9aed0deaef12ac45",
+    "references\\capabilities\\number-code.md": "e31fa5106f2641a93bacfd0c9eb04c95ff1f2a10ed2612d2e456f1ac4316bcfd",
+    "references\\capabilities\\palace-building.md": "a364b76b045afc274154827586704eb6805f7d1a5e05fd7408f43a460e070607",
+    "references\\capabilities\\review-scheduler.md": "0c87c9661391aca2194cfa258e808147084f0708863d804e2303569b9e983327",
+    "references\\capabilities\\self-check.md": "0f2f10d877c854a0487bee089682f41263ac151031bb7de6efcc309526b54485",
+    "references\\capabilities\\speed-training-plan.md": "9888fd2a5f3d7c5a4993a822c5d85882ec5dba568ba61b56497e05df68fd35a1",
+    "references\\capabilities\\title-loci.md": "96c1bb3a60fd866eade17b319abb65a8ff4f28f9e23bff57aee7cf248f0777b0",
+    "references\\capabilities\\word-method-select.md": "44e9904d81746150640bf49997e10c51461d52a6c0833bbbe39091fb32ea3c15",
+    "references\\capabilities\\word-review-system.md": "073cb3678e8a31ecdc1ec810e104a7fc682269095b60f2f38d578e090c921f6d",
+    "references\\capability-index.md": "de3f1988c3fb280f955cc04244558d1ecdd27c258f01b5b8c7ac483d79149087",
+    "references\\cheatsheet.md": "1959f86ecaba7c7a2411ab11397f4c8846540e758d23a03027d80b2478020d0b",
+    "references\\glossary.md": "5770d16d86aa834e83c7e048d25e41394a788c4c0be915eb5b2c0de4c749d117",
+    "references\\overview.md": "3daa298d4b170c743714d6281acb1cb07e3d67615fa054c53ba8f0948cc71847",
+    "SKILL.md": "693bc84c5acf8b0841f1a4d9348ea07a57bc6a06cac69ced5d08d950d8ab32e7"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.memory-master",
+  "bundle_sha256": "67dc773d5382c4f4d70225cbfd189466f38f7d44ec80ddb67adaa7c2691847b8",
+  "variant": "single",
+  "run_id": "run-20261126-143127-9308f8",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 0,
+    "capability_count": 18,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
